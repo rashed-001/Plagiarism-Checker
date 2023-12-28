@@ -10,7 +10,7 @@ Plagiarsim checker using cosine algorithm
 python
 Django
 Apiclient
-sys, od, re
+sys, os, re
 nltk
 
 put your search engine API and ID and then
